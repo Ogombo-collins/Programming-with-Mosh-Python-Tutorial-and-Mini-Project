@@ -5,7 +5,7 @@
  Some of the concepts covered will include:  
  - Classes
  - Packages
- -  Generating Random Values
+ - Generating Random Values
 
   One core project will also be discussed:
   - Automation of processing xlsx files with Python
